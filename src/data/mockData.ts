@@ -41,7 +41,7 @@ export const MOCK_STUDENTS: Student[] = [
     description: "Толыққанды AI көмекшісін немесе сервистік веб-қосымшаны жасау және жариялау." 
   }
 ], 
-    externalResourcesUrl: "slm55.github.io/js-course"
+    externalResourcesUrl: "https://classroom.google.com/c/ODA5ODcxMjM4MzA4?cjc=4kxijvds"
   },
   {
     id: "2024-902",
@@ -82,7 +82,7 @@ export const MOCK_STUDENTS: Student[] = [
     description: "Толыққанды AI көмекшісін немесе сервистік веб-қосымшаны жасау және жариялау." 
   }
 ],
-    externalResourcesUrl: "slm55.github.io/js-course"
+    externalResourcesUrl: "https://classroom.google.com/c/ODA5ODcxMjM4MzA4?cjc=4kxijvds"
   },
   {
     id: "2024-903",
@@ -131,7 +131,7 @@ export const MOCK_STUDENTS: Student[] = [
     status: 'Upcoming', 
     description: "Толыққанды AI көмекшісін немесе сервистік веб-қосымшаны жасау және жариялау." 
   }
-], externalResourcesUrl: "slm55.github.io/js-course"
+], externalResourcesUrl: "https://classroom.google.com/c/ODA5ODcxMjM4MzA4?cjc=4kxijvds"
   },
 
   // --- LOW LEVEL (10-13 балл + Тәртіп + Жобалар) ---
@@ -182,7 +182,7 @@ export const MOCK_STUDENTS: Student[] = [
     status: 'Upcoming', 
     description: "Толыққанды AI көмекшісін немесе сервистік веб-қосымшаны жасау және жариялау." 
   }
-], externalResourcesUrl: "slm55.github.io/js-course"
+], externalResourcesUrl: "https://classroom.google.com/c/ODA5ODcxMjM4MzA4?cjc=4kxijvds"
   },
   {
     id: "2024-905",
@@ -231,7 +231,7 @@ export const MOCK_STUDENTS: Student[] = [
     status: 'Upcoming', 
     description: "Толыққанды AI көмекшісін немесе сервистік веб-қосымшаны жасау және жариялау." 
   }
-], externalResourcesUrl: "slm55.github.io/js-course"
+], externalResourcesUrl: "https://classroom.google.com/c/ODA5ODcxMjM4MzA4?cjc=4kxijvds"
   },
   {
     id: "2024-906",
@@ -280,7 +280,7 @@ export const MOCK_STUDENTS: Student[] = [
     status: 'Upcoming', 
     description: "Толыққанды AI көмекшісін немесе сервистік веб-қосымшаны жасау және жариялау." 
   }
-], externalResourcesUrl: "slm55.github.io/js-course"
+], externalResourcesUrl: "https://classroom.google.com/c/ODA5ODcxMjM4MzA4?cjc=4kxijvds"
   },
   {
     id: "2024-907",
@@ -329,7 +329,7 @@ export const MOCK_STUDENTS: Student[] = [
     status: 'Upcoming', 
     description: "Толыққанды AI көмекшісін немесе сервистік веб-қосымшаны жасау және жариялау." 
   }
-], externalResourcesUrl: "slm55.github.io/js-course"
+], externalResourcesUrl: "https://classroom.google.com/c/ODA5ODcxMjM4MzA4?cjc=4kxijvds"
   },
   {
     id: "2024-908",
@@ -369,7 +369,7 @@ export const MOCK_STUDENTS: Student[] = [
     status: 'Upcoming', 
     description: "Толыққанды AI көмекшісін немесе сервистік веб-қосымшаны жасау және жариялау." 
   }
-], externalResourcesUrl: "slm55.github.io/js-course"
+], externalResourcesUrl: "https://classroom.google.com/c/ODA5ODcxMjM4MzA4?cjc=4kxijvds"
   },
   {
     id: "2024-909",
@@ -409,7 +409,7 @@ export const MOCK_STUDENTS: Student[] = [
     status: 'Upcoming', 
     description: "Толыққанды AI көмекшісін немесе сервистік веб-қосымшаны жасау және жариялау." 
   }
-], externalResourcesUrl: "slm55.github.io/js-course"
+], externalResourcesUrl: "https://classroom.google.com/c/ODA5ODcxMjM4MzA4?cjc=4kxijvds"
   },
 
   // --- MEDIUM LEVEL (12-16 балл) ---
@@ -451,7 +451,7 @@ export const MOCK_STUDENTS: Student[] = [
     status: 'Upcoming', 
     description: "Толыққанды AI көмекшісін немесе сервистік веб-қосымшаны жасау және жариялау." 
   }
-], externalResourcesUrl: "slm55.github.io/js-course"
+], externalResourcesUrl: "https://classroom.google.com/c/ODA5ODcxMjM4MzA4?cjc=4kxijvds"
   },
   {
     id: "2024-911",
@@ -491,7 +491,7 @@ export const MOCK_STUDENTS: Student[] = [
     status: 'Upcoming', 
     description: "Толыққанды AI көмекшісін немесе сервистік веб-қосымшаны жасау және жариялау." 
   }
-], externalResourcesUrl: "slm55.github.io/js-course"
+], externalResourcesUrl: "https://classroom.google.com/c/ODA5ODcxMjM4MzA4?cjc=4kxijvds"
   },
   {
     id: "2024-912",
@@ -531,7 +531,7 @@ export const MOCK_STUDENTS: Student[] = [
     status: 'Upcoming', 
     description: "Толыққанды AI көмекшісін немесе сервистік веб-қосымшаны жасау және жариялау." 
   }
-], externalResourcesUrl: "slm55.github.io/js-course"
+], externalResourcesUrl: "https://classroom.google.com/c/ODA5ODcxMjM4MzA4?cjc=4kxijvds"
   },
   {
     id: "2024-913",
@@ -571,7 +571,7 @@ export const MOCK_STUDENTS: Student[] = [
     status: 'Upcoming', 
     description: "Толыққанды AI көмекшісін немесе сервистік веб-қосымшаны жасау және жариялау." 
   }
-], externalResourcesUrl: "slm55.github.io/js-course"
+], externalResourcesUrl: "https://classroom.google.com/c/ODA5ODcxMjM4MzA4?cjc=4kxijvds"
   },
   {
     id: "2024-914",
@@ -611,7 +611,7 @@ export const MOCK_STUDENTS: Student[] = [
     status: 'Upcoming', 
     description: "Толыққанды AI көмекшісін немесе сервистік веб-қосымшаны жасау және жариялау." 
   }
-], externalResourcesUrl: "slm55.github.io/js-course"
+], externalResourcesUrl: "https://classroom.google.com/c/ODA5ODcxMjM4MzA4?cjc=4kxijvds"
   },
   {
     id: "2024-915",
@@ -651,6 +651,6 @@ export const MOCK_STUDENTS: Student[] = [
     status: 'Upcoming', 
     description: "Толыққанды AI көмекшісін немесе сервистік веб-қосымшаны жасау және жариялау." 
   }
-], externalResourcesUrl: "slm55.github.io/js-course"
+], externalResourcesUrl: "https://classroom.google.com/c/ODA5ODcxMjM4MzA4?cjc=4kxijvds"
   }
 ];
